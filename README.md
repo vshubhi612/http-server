@@ -15,6 +15,7 @@ cd http-server
 python server.py
 ```
 * Visit http://127.0.0.1:4040/ (index.html page will be returned)
+* Visit http://127.0.0.1:4040/hello.html (hello.html page will be returned)
 * Visit http://127.0.0.1:4040/moveto.html/ (will be redirected to Google)
 * Visit http://127.0.0.1:4040/not_present.html/ (404 error will be displayed)
 
