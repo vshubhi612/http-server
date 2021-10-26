@@ -1,12 +1,12 @@
 # HTTP Server
-A simple HTTP server which responds to GET requests made using socket programming in Python.
+A simple HTTP server which responds to GET requests made in Python.
 
 # How to Run
 * Clone the repository
 ```
 git clone https://github.com/vshubhi612/http-server.git
 ```
-* Change the directory
+* Changing the directory
 ```
 cd http-server
 ```
