@@ -10,7 +10,7 @@ git clone https://github.com/vshubhi612/http-server.git
 ```
 cd http-server
 ```
-* Run the python file
+* Run the file
 ```
 python server.py
 ```
