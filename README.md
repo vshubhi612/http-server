@@ -6,7 +6,7 @@ A simple HTTP server which responds to GET requests made using socket programmin
 ```
 git clone https://github.com/vshubhi612/http-server.git
 ```
-* Changing the directory
+* Change the directory
 ```
 cd http-server
 ```
