@@ -1,5 +1,5 @@
-import os  # provides functs for interacting with the os since we are checking if file exists
-import socket #provides connection between client viz browser here and server
+import os  # provides functions for interacting with the os since we are checking if file exists
+import socket #provides connection between client which is browser here and server
 class HTTPServer:#The actual HTTP server class.
 
     headers = {
