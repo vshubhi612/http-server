@@ -46,7 +46,7 @@ class HTTPServer:#The actual HTTP server class.
             self.uri = words[1].decode() # call decode to convert bytes to string
         if len(words) > 2:
             self.http_version = words[2].decode()
-        response = self.handle_GET() #assuming that its always a get request
+        response = self.handle_GET() #assume that its always a get request
         return response
 
 
